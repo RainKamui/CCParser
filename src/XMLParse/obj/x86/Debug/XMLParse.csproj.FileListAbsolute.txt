@@ -1,0 +1,16 @@
+F:\Dev\Net\CSharp\XMLParse\XMLParse\bin\Debug\XMLParse.exe
+F:\Dev\Net\CSharp\XMLParse\XMLParse\bin\Debug\XMLParse.pdb
+F:\Dev\Net\CSharp\XMLParse\XMLParse\obj\x86\Debug\XMLParse.Main.resources
+F:\Dev\Net\CSharp\XMLParse\XMLParse\obj\x86\Debug\XMLParse.Properties.Resources.resources
+F:\Dev\Net\CSharp\XMLParse\XMLParse\obj\x86\Debug\XMLParse.csproj.GenerateResource.Cache
+F:\Dev\Net\CSharp\XMLParse\XMLParse\obj\x86\Debug\XMLParse.exe
+F:\Dev\Net\CSharp\XMLParse\XMLParse\obj\x86\Debug\XMLParse.pdb
+F:\Dev\Net\CSharp\XMLParse\XMLParse\obj\x86\Debug\XMLParse.csprojResolveAssemblyReference.cache
+F:\RainKamui\CCParser\src\XMLParse\bin\Debug\CCParser.exe
+F:\RainKamui\CCParser\src\XMLParse\bin\Debug\CCParser.pdb
+F:\RainKamui\CCParser\src\XMLParse\obj\x86\Debug\XMLParse.csprojResolveAssemblyReference.cache
+F:\RainKamui\CCParser\src\XMLParse\obj\x86\Debug\CCParser.Properties.Resources.resources
+F:\RainKamui\CCParser\src\XMLParse\obj\x86\Debug\XMLParse.csproj.GenerateResource.Cache
+F:\RainKamui\CCParser\src\XMLParse\obj\x86\Debug\CCParser.exe
+F:\RainKamui\CCParser\src\XMLParse\obj\x86\Debug\CCParser.pdb
+F:\RainKamui\CCParser\src\XMLParse\obj\x86\Debug\CCParser.Main.resources

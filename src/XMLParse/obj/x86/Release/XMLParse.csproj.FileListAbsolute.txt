@@ -1,0 +1,8 @@
+F:\Dev\Net\CSharp\XMLParse\XMLParse\bin\Release\XMLParse.exe
+F:\Dev\Net\CSharp\XMLParse\XMLParse\bin\Release\XMLParse.pdb
+F:\Dev\Net\CSharp\XMLParse\XMLParse\obj\x86\Release\XMLParse.Main.resources
+F:\Dev\Net\CSharp\XMLParse\XMLParse\obj\x86\Release\XMLParse.Properties.Resources.resources
+F:\Dev\Net\CSharp\XMLParse\XMLParse\obj\x86\Release\XMLParse.csproj.GenerateResource.Cache
+F:\Dev\Net\CSharp\XMLParse\XMLParse\obj\x86\Release\XMLParse.exe
+F:\Dev\Net\CSharp\XMLParse\XMLParse\obj\x86\Release\XMLParse.pdb
+F:\Dev\Net\CSharp\XMLParse\XMLParse\obj\x86\Release\XMLParse.csprojResolveAssemblyReference.cache
